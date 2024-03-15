@@ -49,7 +49,7 @@ Developed by:**BAKKIYALAKSHMI E**
 **Output:**
 ![de-1 c](https://github.com/Bakkiyalakshmiethiraj/BOOLEAN_FUNCTION_MINIMIZATION/assets/144870983/e7dc2173-d206-4382-b0df-ca6b0dd3a292)
 
-**Timing Diagram**
+**Truth table**
 ![de-1 d](https://github.com/Bakkiyalakshmiethiraj/BOOLEAN_FUNCTION_MINIMIZATION/assets/144870983/85b7dcf6-d3bf-4325-b442-9f3dcda06b8a)
 
 **Result:**
